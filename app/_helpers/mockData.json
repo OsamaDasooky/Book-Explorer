@@ -1,0 +1,726 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 1000000,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "IJibEAAAQBAJ",
+        "etag": "2ffiB3SV98s",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/IJibEAAAQBAJ",
+        "volumeInfo": {
+          "title": "Love's Oneing",
+          "subtitle": "A Book About Contemplation",
+          "authors": [
+            "Kerrie Hide"
+          ],
+          "publisher": "Austin Macauley Publishers",
+          "publishedDate": "2022-11-08",
+          "description": "Grounded in Christian love mysticism, Love’s Oneing gives voice to the luminous consciousness that awakens from within our oneness in God in contemplation. With great sensitivity, the book offers nuanced insight into the marriage of kenosis and desire in contemplation, through the rich tapestry of writings from nine mystics: Julian of Norwich, the Cloud of Unknowing author, Meister Eckhart, Mechthild of Magdeburg, Clare of Assisi, John of the Cross, Teilhard de Chardin, Beatrice Bruteau and Ilia Delio. With the delicate eye of a spiritual director immersed in mystical literature, Kerrie Hide situates these mystical teachings within contemplative prayer, whilst offering a scholarly exploration of contemplative practice to embody the insights. Deeply grounded in traditional and contemporary mystical classics, Hide celebrates how the Christian mystical tradition lays a foundation for the evolutionary growth of communion consciousness and the insights of quantum science, highlighting key moments in contemplation that when surrendered into, open into divine love. Born of intellectual reflection, lived experience and contemplative wisdom, Love’s Oneing makes a unique contribution to the existing literature on contemplation at a time when the recovery of the mystical dimension of life is crucial for the future of our planet in this climate crisis moment.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781398452299"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1398452297"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 264,
+          "printType": "BOOK",
+          "categories": [
+            "Religion"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=IJibEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=IJibEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.jo/books?id=IJibEAAAQBAJ&pg=PT181&dq=love&hl=&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.jo/books?id=IJibEAAAQBAJ&dq=love&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Love_s_Oneing.html?hl=&id=IJibEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JO",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JO",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.jo/books/download/Love_s_Oneing-sample-epub.acsm?id=IJibEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.jo/books/download/Love_s_Oneing-sample-pdf.acsm?id=IJibEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=IJibEAAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... \u003cb\u003elove\u003c/b\u003e-wisdom creativity. The more we become this \u003cb\u003elove\u003c/b\u003e energy, the more our hearts beat with this amorising \u003cb\u003elove\u003c/b\u003e, the more Christ rises as the heart centre of Matter. This activates a stronger Christ consciousness, or capacity to see from&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "yebcAAAAQBAJ",
+        "etag": "4HBfL6CGXkU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/yebcAAAAQBAJ",
+        "volumeInfo": {
+          "title": "Love's Labor",
+          "subtitle": "Essays on Women, Equality and Dependency",
+          "authors": [
+            "Eva Feder Kittay"
+          ],
+          "publisher": "Routledge",
+          "publishedDate": "2013-09-13",
+          "description": "First Published in 1999. Routledge is an imprint of Taylor & Francis, an informa company.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781136640094"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1136640096"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 257,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.1.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=yebcAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=yebcAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.jo/books?id=yebcAAAAQBAJ&pg=PA152&dq=love&hl=&cd=2&source=gbs_api",
+          "infoLink": "http://books.google.jo/books?id=yebcAAAAQBAJ&dq=love&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Love_s_Labor.html?hl=&id=yebcAAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JO",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JO",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.jo/books/download/Love_s_Labor-sample-pdf.acsm?id=yebcAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=yebcAAAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... \u003cb\u003elove\u003c/b\u003e and for happi- ness . These allow those of us who care for her , who \u003cb\u003elove\u003c/b\u003e her , who have been entrusted with her well - being to form deep and abiding attach- ments to her . Sesha&#39;s coin and currency is \u003cb\u003elove\u003c/b\u003e . That is what she&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "p00_DwAAQBAJ",
+        "etag": "nXWxX7B7peQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/p00_DwAAQBAJ",
+        "volumeInfo": {
+          "title": "Billy Love's Wolfpack",
+          "authors": [
+            "Jean Wolf"
+          ],
+          "publisher": "Lulu.com",
+          "publishedDate": "2017-10-23",
+          "description": "It is 1928 in Oklahoma, and Billy Love Wolf is on the cusp of womanhood. Cousin Katerina Wolf and Aunt Elisabetha Wolf Braun reside in Germany. These three women are the voices of the Wolf clan, their complex relationships exquisitely intertwined. The pre-war years reveal an America seemingly uninterested in what is happening during Hitler's rise to power-yet there are exceptions, with the three women working against the dark regime. What are their secrets?",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781387300310"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1387300318"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 278,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.4.4.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=p00_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=p00_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.jo/books?id=p00_DwAAQBAJ&pg=PA252&dq=love&hl=&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.jo/books?id=p00_DwAAQBAJ&dq=love&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Billy_Love_s_Wolfpack.html?hl=&id=p00_DwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JO",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JO",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.jo/books/download/Billy_Love_s_Wolfpack-sample-pdf.acsm?id=p00_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=p00_DwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... \u003cb\u003eLove\u003c/b\u003e says . &quot; What about Debra and Fritz Braun ? &quot; &quot; They are getting along . &quot; I notice Billy \u003cb\u003eLove\u003c/b\u003e making eye contact with Giselle ; Giselle gives nothing away , but I know her well enough to tell she is relieved . &quot; Come , everyone&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "drZpAAAAcAAJ",
+        "etag": "JTYTC9ZRFuY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/drZpAAAAcAAJ",
+        "volumeInfo": {
+          "title": "Love's Conflict",
+          "authors": [
+            "Florence Marryat"
+          ],
+          "publishedDate": "1865",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "BSB:BSB11338420"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 352,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.5.7.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=drZpAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=drZpAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.jo/books?id=drZpAAAAcAAJ&pg=PA54&dq=love&hl=&cd=4&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=drZpAAAAcAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=drZpAAAAcAAJ"
+        },
+        "saleInfo": {
+          "country": "JO",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=drZpAAAAcAAJ&rdid=book-drZpAAAAcAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JO",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.jo/books/download/Love_s_Conflict.epub?id=drZpAAAAcAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=drZpAAAAcAAJ&hl=&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... \u003cb\u003elove\u003c/b\u003e it will make little difference to her , if her house is large or small . Grace dear , never marry with- out you are sure you \u003cb\u003elove\u003c/b\u003e your intended husband . Life is sorrowful enough with \u003cb\u003elove\u003c/b\u003e ; without it , it is unbearable . &quot; &quot; Do&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "DyEJAAAAQAAJ",
+        "etag": "7Xcnh4gCVI0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/DyEJAAAAQAAJ",
+        "volumeInfo": {
+          "title": "Comedies: The merchant of Venice. Love's labour's lost. As you like it. The taming of the shrew. All's well that end's well. Twelfth night: or, What you will. The winter's tale",
+          "authors": [
+            "William Shakespeare"
+          ],
+          "publishedDate": "1745",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OXFORD:400445912"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 614,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.8.10.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=DyEJAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=DyEJAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.jo/books?id=DyEJAAAAQAAJ&pg=PA109&dq=love&hl=&cd=5&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=DyEJAAAAQAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DyEJAAAAQAAJ"
+        },
+        "saleInfo": {
+          "country": "JO",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=DyEJAAAAQAAJ&rdid=book-DyEJAAAAQAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JO",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.jo/books/download/Comedies_The_merchant_of_Venice_Love_s_l.epub?id=DyEJAAAAQAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.jo/books/download/Comedies_The_merchant_of_Venice_Love_s_l.pdf?id=DyEJAAAAQAAJ&hl=&output=pdf&sig=ACfU3U1WLxLKgM7m4Lb1d97z9IKOrAsS_Q&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=DyEJAAAAQAAJ&hl=&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... \u003cb\u003elove\u003c/b\u003e with finging \u003cb\u003elove\u003c/b\u003e ; sometime through the nose , as if you snuft up \u003cb\u003elove\u003c/b\u003e by smelling \u003cb\u003elove\u003c/b\u003e ; with your hat pent- house - like o&#39;er the shop of your eyes ; with your arms croft on your thin - belly doublet , like a rabbet on a fpit&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "IoI0AAAAMAAJ",
+        "etag": "hIHyDneSWec",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/IoI0AAAAMAAJ",
+        "volumeInfo": {
+          "title": "Measure for measure. Much ado about nothing. Midsummer-night's dream. Love's labour's lost",
+          "authors": [
+            "William Shakespeare"
+          ],
+          "publishedDate": "1826",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UOM:39015063736626"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 444,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.9.8.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=IoI0AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=IoI0AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.jo/books?id=IoI0AAAAMAAJ&pg=PA370&dq=love&hl=&cd=6&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=IoI0AAAAMAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IoI0AAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "JO",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=IoI0AAAAMAAJ&rdid=book-IoI0AAAAMAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JO",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.jo/books/download/Measure_for_measure_Much_ado_about_nothi.epub?id=IoI0AAAAMAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.jo/books/download/Measure_for_measure_Much_ado_about_nothi.pdf?id=IoI0AAAAMAAJ&hl=&output=pdf&sig=ACfU3U0_ZNxvcjJvUAcuByYYC2X-SVJZhg&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=IoI0AAAAMAAJ&hl=&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... \u003cb\u003elove\u003c/b\u003e a Hercules , Still climbing trees in the Hesperides 26 ? Subtle as sphinx ; as sweet , and musical , As bright Apollo&#39;s lute , strung with his hair ; And , when \u003cb\u003elove\u003c/b\u003e speaks , the voice of all the gods Make heaven drowsy with the&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "gTNkAAAAcAAJ",
+        "etag": "Ck4PbSzxIf4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/gTNkAAAAcAAJ",
+        "volumeInfo": {
+          "title": "Marianus, or Love's Heroick Champion, etc. [A romance.]",
+          "authors": [
+            "MARIANUS."
+          ],
+          "publishedDate": "1641",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "BL:A0020404363"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 408,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.6.5.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=gTNkAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=gTNkAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.jo/books?id=gTNkAAAAcAAJ&pg=PA38&dq=love&hl=&cd=7&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=gTNkAAAAcAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gTNkAAAAcAAJ"
+        },
+        "saleInfo": {
+          "country": "JO",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=gTNkAAAAcAAJ&rdid=book-gTNkAAAAcAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JO",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.jo/books/download/Marianus_or_Love_s_Heroick_Champion_etc.epub?id=gTNkAAAAcAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=gTNkAAAAcAAJ&hl=&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... \u003cb\u003elove\u003c/b\u003e , blame none but thy felfe , spare to speake , spare to speed . Cowards never wereLoves Champions ; nor fainthearted swads obtained Ladies \u003cb\u003elove\u003c/b\u003e , women though never so base , will . be sued , fought after , and courted with many&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "--_PDwAAQBAJ",
+        "etag": "kVFPcHSJ7TQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/--_PDwAAQBAJ",
+        "volumeInfo": {
+          "title": "كل ما أعرفه عن الحب",
+          "authors": [
+            "دولي ألدرتون",
+            "Dolly Alderton",
+            "دار الساقي"
+          ],
+          "publisher": "Dar al Saqi",
+          "publishedDate": "2020-02-13",
+          "description": "من مراهقة تقضي وقتها على الإنترنت، وتسكنها فكرة أن تكون نحيلة حتى يقبلها محيطها، إلى شابة مكسورة تبحث عن النجاة في عيادة نفسية، ثم إلى امرأة ناضجة كوّنت من تجربتها أساساً تستند إليه، تروي دولّي بصراحة ما عاشته والخلاصات التي غيّرت مجرى حياتها... وكما تكون الاكتشافات المذهلة في الحياة هي الأكثر بساطة وعفوية، كذلك هذا الكتاب في صدقه وشفافيته، تجتمع أحداثه كأجزاء من مرايا لا بدّ أن تلمح صورتك الحقيقية في واحدة منها، وستجد في البقية ما يشبه الآخرين ممّن تعرفهم أو حتى من لم تلتقِ بهم. سرد رشيق وحكاية مشوّقة ومثيرة ومفاجئة، مضحكة حيناً ومحزنة حيناً آخر، لا تخلو من المغامرة والجرأة، ومن الانكسارات والإحباط",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9786140301481"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "6140301483"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 249,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.2.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=--_PDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=--_PDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ar",
+          "previewLink": "http://books.google.jo/books?id=--_PDwAAQBAJ&printsec=frontcover&dq=love&hl=&cd=8&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=--_PDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=--_PDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JO",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 7.8,
+            "currencyCode": "JOD"
+          },
+          "retailPrice": {
+            "amount": 7.8,
+            "currencyCode": "JOD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=--_PDwAAQBAJ&rdid=book---_PDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 7800000,
+                "currencyCode": "JOD"
+              },
+              "retailPrice": {
+                "amountInMicros": 7800000,
+                "currencyCode": "JOD"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JO",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.jo/books/download/%D9%83%D9%84_%D9%85%D8%A7_%D8%A3%D8%B9%D8%B1%D9%81%D9%87_%D8%B9%D9%86_%D8%A7%D9%84%D8%AD%D8%A8-sample-epub.acsm?id=--_PDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=--_PDwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "من مراهقة تقضي وقتها على الإنترنت، وتسكنها فكرة أن تكون نحيلة حتى يقبلها محيطها، إلى شابة مكسورة تبحث عن النجاة في عيادة نفسية، ثم ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "dE4DAAAAMAAJ",
+        "etag": "I53tVl5XWSo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/dE4DAAAAMAAJ",
+        "volumeInfo": {
+          "title": "Rasāʾ il gharām baina nisāʾi shahīrāt wa-rijāl ʻiẓām [Love letters of famous women and men] ...",
+          "authors": [
+            "Salīm ʻAbdalʼ aḥad"
+          ],
+          "publishedDate": "1914",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UOM:39015028368226"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 66,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.8.7.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=dE4DAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=dE4DAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ar",
+          "previewLink": "http://books.google.jo/books?id=dE4DAAAAMAAJ&q=love&dq=love&hl=&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.jo/books?id=dE4DAAAAMAAJ&dq=love&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Ras%C4%81%CA%BE_il_ghar%C4%81m_baina_nis%C4%81%CA%BEi_shah%C4%AB.html?hl=&id=dE4DAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "JO",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JO",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=dE4DAAAAMAAJ&hl=&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... \u003cb\u003eالحب\u003c/b\u003e تحية الملائكة لسكان السماء ؟ أليست العين تستنير بأشعة الشمس والقلب يستنير بأشعة \u003cb\u003eالحب\u003c/b\u003e ومصدر كليهما ابتسامة الآلهة ؟ فان كان يحتم على الانسان عبادة الآلهة فلانها مصدر \u003cb\u003eالحب\u003c/b\u003e . في كلا \u003cb\u003eالحب\u003c/b\u003e والعبادة تركع النفس امام معبود لا تدركه ولا تلم&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "tpi4HVF7laAC",
+        "etag": "McJgu5lyjqI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/tpi4HVF7laAC",
+        "volumeInfo": {
+          "title": "Songs of Grace and Glory ... Hymnal treasures of the Church of Christ, from the sixth to the nineteenth century. Edited by C. B. Snepp ... Seventh thousand",
+          "authors": [
+            "Charles Busbridge SNEPP"
+          ],
+          "publishedDate": "1872",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "BL:A0021939364"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 296,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.5.6.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=tpi4HVF7laAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=tpi4HVF7laAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.jo/books?id=tpi4HVF7laAC&pg=PP49&dq=love&hl=&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=tpi4HVF7laAC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tpi4HVF7laAC"
+        },
+        "saleInfo": {
+          "country": "JO",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=tpi4HVF7laAC&rdid=book-tpi4HVF7laAC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JO",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.jo/books/download/Songs_of_Grace_and_Glory_Hymnal_treasure.epub?id=tpi4HVF7laAC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=tpi4HVF7laAC&hl=&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... \u003cb\u003elove\u003c/b\u003e toward us . &quot; KEDRON . 886. D. 1 SUPREMELY sweet is sovereign \u003cb\u003elove\u003c/b\u003e , That brought the Saviour from above , To agonize and die ; Its aim in Jesus was to bless Its objects with His righteousness ; &#39; T is ... \u003cb\u003elove\u003c/b\u003e GOD IS \u003cb\u003eLOVE\u003c/b\u003e ."
+        }
+      }
+    ]
+  }
+  
